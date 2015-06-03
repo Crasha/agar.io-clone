@@ -52,8 +52,8 @@ window.onload = function() {
 // Canvas
 var screenWidth = window.innerWidth;
 var screenHeight = window.innerHeight;
-var gameWidth = screenWidth * 3;
-var gameHeight = screenHeight * 3;
+var gameWidth = screenWidth * 10;
+var gameHeight = screenHeight * 10;
 var xoffset = -gameWidth;
 var yoffset = -gameHeight;
 
